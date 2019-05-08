@@ -1,2 +1,2 @@
 # Laria
-Peer-to-Peer Computing Platform
+Edge Computing Platform
