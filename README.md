@@ -11,4 +11,8 @@ receiver
 
 ## Reward
 
-## 
+## Feature
+- 內建儲值卡
+- 多簽支援
+- 質押鑄幣
+- 延遲生效
